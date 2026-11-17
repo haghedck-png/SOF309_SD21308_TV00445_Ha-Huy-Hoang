@@ -17,7 +17,8 @@
 | ValidationControllerTest | util.ValidationUtil (TC_07, TC_09, TC_10) | assertThrows, @ParameterizedTest, @Timeout |
 
 ## 4. Em đã kiểm tra / chỉnh sửa
-- (chép file test, cấu hình pom, chạy lệnh Maven)
-
+- đã đổi pom sang JUnit 5 và thêm Mockito
+- đã gộp dependency của web cũ
+- đã chạy mvn test -Dtest=*ControllerTest và 76 test pass
 ## 5. Kết quả
 - `mvn test -Dtest=*ControllerTest`: Tests run: 76, Failures: 0, Errors: 0, Skipped: 0
