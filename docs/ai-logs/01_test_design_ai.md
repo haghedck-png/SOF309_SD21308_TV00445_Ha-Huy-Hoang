@@ -1,9 +1,9 @@
-<img width="570" height="85" alt="ảnh" src="https://github.com/user-attachments/assets/0916d00e-6a4c-4fc0-af2d-7a686b540381" /># Nhật ký AI 01: Thiết kế Test Plan và Test Case (Y2)
 
-> CÁC MỤC CÓ [ĐIỀN] LÀ PHẦN BẠN PHẢI TỰ DÁN BẰNG NỘI DUNG THẬT. Xóa dòng này khi nộp.
+
+## Nhật kí AI Y2
 
 ## 1. Ngữ cảnh & Mục tiêu
-- Công cụ: Claude (Anthropic).
+- Công cụ: gemini.
 - Cần làm: sinh `docs/TEST_PLAN.md` và `docs/TEST_CASES.md` cho Hệ thống Quản lý Chung cư (Servlet/JSP, SQL Server), dựa trên `docs/SPECIFICATIONS.md`.
 - Kỹ thuật yêu cầu: Phân vùng tương đương và Phân tích giá trị biên.
 - Phạm vi: đăng nhập và phân quyền, căn hộ, cư dân, hóa đơn.
